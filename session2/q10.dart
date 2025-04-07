@@ -13,13 +13,6 @@ void main ()
   {
     print("No score");
   }
-  score = 55;
-  if (score != null)
-  {
-    print (score);
-  }
-  else 
-  {
-    print ("No score");
-  }
+  Score = 55;
+  bool Score = false;
 }
